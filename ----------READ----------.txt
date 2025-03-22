@@ -1,0 +1,20 @@
+
+
+
+*****************************************************
+
+  Unapck both files in one folder.  
+
+  If the .EXE file doesn't appear when the files are unzipped,
+
+  please turn off your Antivirus and then unpack both zip files again.
+
+  If you have problems starting the game, please turn off the antivirus
+
+  and strar the game again.
+
+
+
+  Thank you!
+
+*****************************************************
